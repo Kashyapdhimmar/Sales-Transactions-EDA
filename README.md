@@ -38,22 +38,25 @@ The dataset `Sales_Data.csv` contains sales transaction records with the followi
 ## Sample Visualizations
 
 ### Gender-wise Transaction Count
-![Gender-wise Transaction Count]([images/gender_transactions.png](https://github.com/Kashyapdhimmar/Sales-Transactions-EDA/blob/2968760defb626404c190b1f5c1cd921a88688b2/Gender-wise%20Transaction%20Count.png))
+![Gender-wise Transaction Count](https://github.com/Kashyapdhimmar/Sales-Transactions-EDA/raw/main/images/gender_transactions.png)
 
 ### Age Group-wise Total Sales
-![Age Group-wise Sales]([images/agegroup_sales.png](https://github.com/Kashyapdhimmar/Sales-Transactions-EDA/blob/2968760defb626404c190b1f5c1cd921a88688b2/Age%20Group-wise%20Sales.png))
+![Age Group-wise Sales](https://github.com/Kashyapdhimmar/Sales-Transactions-EDA/raw/main/images/agegroup_sales.png)
 
 ## How to Run
-1. Ensure you have Python 3.x installed.
-2. Open `EDA_Sales_Transactions.ipynb` in Jupyter Notebook or VS Code.
-3. Run each cell sequentially to replicate the analysis.
+1. Ensure you have Python 3.x installed.  
+2. Open `EDA_Sales_Transactions.ipynb` in Jupyter Notebook or VS Code.  
+3. Run each cell sequentially to replicate the analysis.  
 
 ## Files
-- `Sales_Data.csv` – Sales transactions dataset
-- `EDA_Sales_Transactions.ipynb` – Jupyter Notebook containing the full analysis
-- `README.md` – Project overview and instructions
+- `Sales_Data.csv` – Sales transactions dataset  
+- `EDA_Sales_Transactions.ipynb` – Jupyter Notebook containing the full analysis  
+- `README.md` – Project overview and instructions  
 
 ## Technologies Used
-- Python 3.x
-- Pandas, NumPy
-- Matplotlib, Seaborn
+- Python 3.x  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+
+## GitHub Repository
+[Sales Transactions EDA](https://github.com/Kashyapdhimmar/Sales-Transactions-EDA)
