@@ -36,19 +36,16 @@ The dataset `Sales_Data.csv` contains sales transaction records with the followi
 7. **Profession-wise transactions & top 3 professions by sales** – Bar Chart  
 
 ## How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Kashyapdhimmar/Sales-Transactions-EDA.git
-2. Ensure you have Python 3.x installed.
-3. Open EDA_Sales_Transactions.ipynb in Jupyter Notebook or VS Code.
-4. Run each cell sequentially to replicate the analysis.
+1. Ensure you have Python 3.x installed.
+2. Open `EDA_Sales_Transactions.ipynb` in Jupyter Notebook or VS Code.
+3. Run each cell sequentially to replicate the analysis.
 
-Files
-Sales_Data.csv – Sales transactions dataset
-EDA_Sales_Transactions.ipynb – Jupyter Notebook containing the full analysis
-README.md – Project overview and instructions
+## Files
+- `Sales_Data.csv` – Sales transactions dataset
+- `EDA_Sales_Transactions.ipynb` – Jupyter Notebook containing the full analysis
+- `README.md` – Project overview and instructions
 
-Technologies Used
-Python 3.x
-Pandas, NumPy
-Matplotlib, Seaborn, Numpy and Pandas
+## Technologies Used
+- Python 3.x
+- Pandas, NumPy
+- Matplotlib, Seaborn
