@@ -40,7 +40,7 @@ The dataset `Sales_Data.csv` contains sales transaction records with the followi
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Kashyapdhimmar/Sales-Transactions-EDA.git
 2. Ensure you have Python 3.x installed.
 3. Open EDA_Sales_Transactions.ipynb in Jupyter Notebook or VS Code.
 4. Run each cell sequentially to replicate the analysis.
