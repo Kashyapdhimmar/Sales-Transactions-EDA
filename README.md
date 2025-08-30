@@ -38,10 +38,10 @@ The dataset `Sales_Data.csv` contains sales transaction records with the followi
 ## Sample Visualizations
 
 ### Gender-wise Transaction Count
-![Gender-wise Transaction Count](https://github.com/Kashyapdhimmar/Sales-Transactions-EDA/raw/main/images/gender_transactions.png)
+<img src="https://github.com/Kashyapdhimmar/Sales-Transactions-EDA/raw/main/images/gender_transactions.png" width="900">
 
 ### Age Group-wise Total Sales
-![Age Group-wise Sales](https://github.com/Kashyapdhimmar/Sales-Transactions-EDA/raw/main/images/agegroup_sales.png)
+<img src="https://github.com/Kashyapdhimmar/Sales-Transactions-EDA/raw/main/images/agegroup_sales.png" width="900">
 
 ## How to Run
 1. Ensure you have Python 3.x installed.  
