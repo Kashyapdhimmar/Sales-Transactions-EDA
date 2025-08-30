@@ -16,8 +16,6 @@ The dataset `Sales_Data.csv` contains sales transaction records with the followi
 - **Orders**: Number of products ordered  
 - **Amount**: Total transaction amount  
 
-> Note: The dataset is anonymized to protect customer privacy.
-
 ## Objective
 - Analyze **gender-wise** and **age-wise** transaction trends.  
 - Identify **top performing states** by order count and sales amount.  
