@@ -35,6 +35,14 @@ The dataset `Sales_Data.csv` contains sales transaction records with the followi
 6. **Product Category & Gender-wise transactions** – Grouped Bar Chart  
 7. **Profession-wise transactions & top 3 professions by sales** – Bar Chart  
 
+## Sample Visualizations
+
+### Gender-wise Transaction Count
+![Gender-wise Transaction Count]([images/gender_transactions.png](https://github.com/Kashyapdhimmar/Sales-Transactions-EDA/blob/2968760defb626404c190b1f5c1cd921a88688b2/Gender-wise%20Transaction%20Count.png))
+
+### Age Group-wise Total Sales
+![Age Group-wise Sales]([images/agegroup_sales.png](https://github.com/Kashyapdhimmar/Sales-Transactions-EDA/blob/2968760defb626404c190b1f5c1cd921a88688b2/Age%20Group-wise%20Sales.png))
+
 ## How to Run
 1. Ensure you have Python 3.x installed.
 2. Open `EDA_Sales_Transactions.ipynb` in Jupyter Notebook or VS Code.
