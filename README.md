@@ -44,9 +44,11 @@ The dataset `Sales_Data.csv` contains sales transaction records with the followi
 4. Run each cell sequentially to replicate the analysis.
 
 Files
-
 Sales_Data.csv – Sales transactions dataset
-
 EDA_Sales_Transactions.ipynb – Jupyter Notebook containing the full analysis
-
 README.md – Project overview and instructions
+
+Technologies Used
+Python 3.x
+Pandas, NumPy
+Matplotlib, Seaborn, Numpy and Pandas
